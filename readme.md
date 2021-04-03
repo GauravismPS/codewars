@@ -1,0 +1,1 @@
+# Solution for CodeWars assignment PJP 2021
